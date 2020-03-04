@@ -1,0 +1,88 @@
+﻿@model List<Dashboard.DB.Users>
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    #last {
+        text-transform: uppercase;
+    }
+
+    .my-custom-scrollbar {
+        position: relative;
+        height: 409px;
+        overflow: auto;
+    }
+
+    .table-wrapper-scroll-y {
+        display: block;
+</style>
+
+<h2>Çalışan Satış Listesi</h2>
+
+<hr />
+
+<div class="table-wrapper-scroll-y my-custom-scrollbar">
+    <table class="table table-bordered table-hover table-striped mb-0">
+
+
+
+        <tr>
+            <th>
+                NO
+            </th>
+            <th id="last">
+                MT ADI
+            </th>
+            <th id="last">
+                Satış Adet
+            </th>
+            <th id="last">
+                satış tarihi
+            </th>
+
+        </tr>
+        @{int i = 1;
+        }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <b>@i</b>
+                </td>
+
+                <td id="last">
+                    @item.AgentName
+                </td>
+
+                <td>
+                    @item.SalesCount
+                    <a href="/Home/satisAdetAzalt/@item.Id"><i class="fas fa-window-minimize pull-right" style="color:#ADB5BD"></i></a>
+
+                </td>
+
+                <td>
+                    @item.SalesDate
+
+                </td>
+
+            </tr>
+            i++;
+
+        }
+
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

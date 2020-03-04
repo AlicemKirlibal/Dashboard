@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Tempo_MillenicomSalesDashboardModelStoreContainer" CdmEntityContainer="Tempo_MillenicomSalesDashboardEntities">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Tempo_MillenicomSalesDashboardModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="AgentName" ColumnName="AgentName" />
+          <ScalarProperty Name="SalesCount" ColumnName="SalesCount" />
+          <ScalarProperty Name="SalesDate" ColumnName="SalesDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
