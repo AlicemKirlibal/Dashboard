@@ -1,0 +1,16 @@
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\bin\Release\AgentClickForm.exe.config
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\bin\Release\AgentClickForm.exe.manifest
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\bin\Release\AgentClickForm.application
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\bin\Release\AgentClickForm.exe
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\bin\Release\AgentClickForm.pdb
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\bin\Release\Net.Code.ADONet.dll
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.csprojAssemblyReference.cache
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.Form1.resources
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.Properties.Resources.resources
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.csproj.GenerateResource.cache
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.csproj.CoreCompileInputs.cache
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.exe.manifest
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.application
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.csproj.CopyComplete
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.exe
+C:\TFS\OutSource Projects\MilenicomAgentSalesDashboard\AgentClickForm\obj\Release\AgentClickForm.pdb
